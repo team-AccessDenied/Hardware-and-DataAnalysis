@@ -1,0 +1,2 @@
+USE WORKPLACE1;
+SELECT Pname, Pnumber FROM PROJECT WHERE Plocation='Houston';
