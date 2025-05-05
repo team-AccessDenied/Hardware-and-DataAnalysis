@@ -1,5 +1,0 @@
-
-USE WORKPLACE1;
-SELECT Fname, Lname, Salary FROM EMPLOYEE WHERE Salary>30000;
-
-

@@ -1,2 +1,0 @@
-USE WORKPLACE1;
-SELECT Fname, Lname, Salary FROM EMPLOYEE;

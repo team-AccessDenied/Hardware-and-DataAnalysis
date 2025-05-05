@@ -1,5 +1,0 @@
-USE WORKPLACE1;
-SELECT E.Fname, E.Lname, D.Dname
-FROM EMPLOYEE E 
-JOIN DEPARTMENT D 
-ON E.Ssn=D.Mgr_ssn;
